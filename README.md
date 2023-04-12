@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>ToDo List Using Django Framework</title>
   </head>
   <body>
     <h1>ToDo List Using Django Framework</h1>
